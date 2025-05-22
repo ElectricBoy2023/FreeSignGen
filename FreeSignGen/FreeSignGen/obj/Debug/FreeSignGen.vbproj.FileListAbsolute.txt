@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\bin\Debug\FreeSignGen.exe.config
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\bin\Debug\FreeSignGen.exe
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\bin\Debug\FreeSignGen.pdb
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\bin\Debug\FreeSignGen.xml
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.Form1.resources
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.Resources.resources
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.exe
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.xml
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.pdb
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.exe.config
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.AboutBox1.resources
+C:\Users\Admin\source\repos\FreeSignGen\FreeSignGen\obj\Debug\FreeSignGen.Form2.resources
